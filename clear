@@ -1,0 +1,77 @@
+[1mdiff --git a/example2.html b/example2.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..97934ea[m
+[1m--- /dev/null[m
+[1m+++ b/example2.html[m
+[36m@@ -0,0 +1,70 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>Product Advertisement</title>[m
+[32m+[m[32m    <style>[m
+[32m+[m[32m        body {[m
+[32m+[m[32m            font-family: Arial, sans-serif;[m
+[32m+[m[32m            background-color: #f4f4f4;[m
+[32m+[m[32m            margin: 0;[m
+[32m+[m[32m            padding: 0;[m
+[32m+[m[32m        }[m
+[32m+[m
+[32m+[m[32m        header {[m
+[32m+[m[32m            background-color: #333;[m
+[32m+[m[32m            color:white;[m
+[32m+[m[32m            text-align: center;[m
+[32m+[m[32m            padding: 1em;[m
+[32m+[m[32m            position: fixed;[m
+[32m+[m[32m        }[m
+[32m+[m
+[32m+[m[32m        section {[m
+[32m+[m[32m            max-width: 800px;[m
+[32m+[m[32m            margin: 2em auto;[m
+[32m+[m[32m            padding: 1em;[m
+[32m+[m[32m            background-color: #fff;[m
+[32m+[m[32m            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);[m
+[32m+[m[32m        }[m
+[32m+[m[32m        footer{[m
+[32m+[m[32m            background-color: #333;[m
+[32m+[m[32m            color: #fff;[m
+[32m+[m[32m            text-align: center;[m
+[32m+[m[41m            [m
+[32m+[m[32m            bottom: 0;[m
+[32m+[m[32m            width: 100%;[m
+[32m+[m[32m            padding: 1em;[m
+[32m+[m[32m        }[m
+[32m+[m
+[32m+[m
+[32m+[m[32m    </style>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m
+[32m+[m[32m    <header>[m
+[32m+[m[32m        <h1>Product Advertisement</h1>[m
+[32m+[m[32m    </header>[m
+[32m+[m
+[32m+[m[32m    <section>[m
+[32m+[m[32m        <h2 style="text-align: center;">Introducing One Of Our Awesome Product.</h2>[m
+[32m+[m[32m        <h3 style="text-align: center;">DOMS Super Dark Pencil</h3>[m
+[32m+[m[32m        <img src="https://artikate.com/cdn/shop/files/DOMSKarbonEraserTippedPencilEXPORT_600x600_crop_center.png?v=1684735494" alt="Product X Image" style="max-width: 60%; height: auto;">[m
+[32m+[m
+[32m+[m[32m        <p>Experience the next level of innovation with our latest product,DOMS Super Dark pencil Whether you're a professional or a casual user,DOMS Super Dark is designed to meet all your needs.</p>[m
+[32m+[m[32m        <ul>[m
+[32m+[m[32m            <li>Feature 1: Easy to use and safe for children.</li>[m
+[32m+[m[32m            <li>Feature 2: Extra dark and rubber tipped for erasing.</li>[m
+[32m+[m[32m            <li>Feature 3: Soft and well treated wood for smooth sharpening.</li>[m
+[32m+[m[32m        </ul>[m
+[32m+[m[32m        <p>Don't miss out on the opportunity to own the future.Hurry up and visit the nearest store or click the link below to purchase before it is unavialable.[m
+[32m+[m[32m        Order DOMS Super Dark pencil now! <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.daraz.com.np%2Fproducts%2Fdoms-karbon-eraser-tipped-supper-dark-graphite-pencils-12-pcs-pack-i127921741-s1035012421.html%3Fdsource%3Dshare%26laz_share_info%3D838122388_100_100_900004500557_838122388_null%26laz_token%3Db1e0c9f1054f8dfe5a870f0bebabd3ca%26fbclid%3DIwAR0LpecZgrlB493lYlOB7yH5uQOtIqo0ZHwTT6iZEd_puO1mBI7bIIaZi3k&h=AT1STCPFm5o3Ocz1EJPoxecoryBaIRj9zCH356t309RFKZRW9T782ekkiqVQ5DAHc12-PDySBiJeskbuod16OZycyCML5G3FcXPNDcOAe_cgbsmuhhINnsE0N709Ee5mGYB-Dw" style="color: blue;">daraz store</a></p>[m
+[32m+[m[41m        [m
+[32m+[m[32m    </section>[m
+[32m+[m
+[32m+[m[32m    <footer>[m
+[32m+[m[32m        <p>&copy; 2024 Riya Bhattarai.</p>[m
+[32m+[m[32m    </footer>[m
+[32m+[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m[41m [m
+\ No newline at end of file[m
